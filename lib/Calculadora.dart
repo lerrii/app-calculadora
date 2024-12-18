@@ -67,7 +67,7 @@ class _CalculadoraState extends State<Calculadora> {
           ),
         ),
         Expanded(
-          flex: 8,
+          flex: 4,
           child: GridView.count(
             crossAxisCount: 4,
             childAspectRatio: 2,
